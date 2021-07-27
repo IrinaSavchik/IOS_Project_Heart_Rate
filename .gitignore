@@ -1,0 +1,8 @@
+Pods/
+Podfile.lock
+.DS_Store
+.build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+build/
